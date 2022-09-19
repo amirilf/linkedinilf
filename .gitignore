@@ -1,0 +1,24 @@
+# Custom
+.todo
+output.txt
+test.html
+test.py
+
+# Webdrivers
+geckodriver
+chromedriver
+
+# Environments 
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
+
+# Logs and cashes
+*.log
+*.pot
+*.pyc
+__pycache__
